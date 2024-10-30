@@ -1,0 +1,1 @@
+# [Тренировки по алгоритмам 6.0](https://yandex.ru/yaintern/training/algorithm-training)
